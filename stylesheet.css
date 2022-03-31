@@ -51,13 +51,13 @@
     }
 
     .profile-career {
-        color:red;
-        font-size:10px;
         width:230px;
         margin: 0 auto;
         text-align: left;
     }
 
     .profile-career p {
+        color:red;
+        font-size:10px;
         padding-bottom: 10px;
     }
